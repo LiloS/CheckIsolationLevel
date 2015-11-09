@@ -1,0 +1,6 @@
+##README
+Task: detect isolation level of database
+
+How to do: 
+1. Update runAll.bat with DB and Instance names
+2. Run runAll.bat
